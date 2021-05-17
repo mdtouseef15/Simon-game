@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+
+body { 
+    text-align: center;
+    padding-top: 2%;
+    background-image: url("black.jpg");
+    background-size: cover;
+    color: white;
+    font-family: 'Amatic SC', cursive;
+    font-size: 20px;
+}
+
+h2{
+    font-size: 40px;
+}
+
+.button {
+    font-size: 14px;
+    margin: 5px 5px 5px 5px;
+    padding: 40px 40px;
+    border-radius: 20px;
+}
+
+.btn-start {
+    font-size: 20px;
+    padding: 10px 18px;
+    border-radius: 6px;
+    font-family: 'Amatic SC', cursive;
+}
+.btn-start:hover {
+    background-color: lightgray;
+}
+
+.btn-green{
+    background-color: green;
+    transition: background-color 0.7s;
+}
+.btn-lightgreen{
+    background-color: black;
+}
+.btn-green:hover{
+    background-color: lightgreen;
+}
+
+.btn-blue{
+    background-color: blue;
+    transition: background-color 0.7s;
+}
+.btn-lightblue{
+    background-color: black;
+}
+.btn-blue:hover{
+    background-color: rgb(24, 187, 241);
+}
+
+.btn-yellow{
+    background-color: gold;
+    transition: background-color 0.7s;
+}
+.btn-lightyellow{
+    background-color: black;
+}
+.btn-yellow:hover{
+    background-color: lightgoldenrodyellow;
+}
+
+.btn-red{
+    background-color: red;
+    transition: background-color 0.7s;
+}
+.btn-lightred{
+    background-color: black;
+}
+.btn-red:hover{
+    background-color: lightsalmon;
+}
+
+.p1{
+    font-size: 18px;
+}
